@@ -1,6 +1,6 @@
 ## Hi👋, the name's Malone Ingham
 
-- 🧠 Backend Developer
+- 🧠 Backend Developer, Training for Full Stack
 - 💻 Working with Go and Python to build scalable, efficient systems.
 - 👯 I’m looking to collaborate on any project presented to me
 - 📫 How to reach me: maloneingham@gmail.com
