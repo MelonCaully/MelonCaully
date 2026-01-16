@@ -1,7 +1,7 @@
 ## Hi👋, the name's Malone Ingham
 
 - 🧠 Backend Developer, Training for Full Stack, and Game Developer
-- 💻 Working with C++, GoLang, Java and Python to build scalable and efficient systems
+- 💻 Working with C++, Go, Java and Python to build scalable and efficient systems
 - 👯 I’m looking to collaborate on any project presented to me
 - 📫 How to reach me: maloneingham@gmail.com
 
