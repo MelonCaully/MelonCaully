@@ -5,4 +5,5 @@
 - 👯 I’m looking to collaborate on any project presented to me
 - 📫 How to reach me: maloneingham@gmail.com
 
+🔗 [Portfolio](https://malone-portfolio-five.vercel.app/) • 🌐
 🔗 [LinkedIn](https://www.linkedin.com/in/malone-ingham-440795355) • 🌐
