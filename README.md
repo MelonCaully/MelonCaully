@@ -6,4 +6,5 @@
 - 📫 How to reach me: maloneingham@gmail.com
 
 🔗 [Portfolio](https://malone-portfolio-five.vercel.app/) • 🌐
+
 🔗 [LinkedIn](https://www.linkedin.com/in/malone-ingham-440795355) • 🌐
